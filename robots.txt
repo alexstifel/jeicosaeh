@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecicahjox.countlessskies.com/sitemap.xml
